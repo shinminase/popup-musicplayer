@@ -1,3 +1,5 @@
 # popup-musicplayer
 a side music player that's easily configurable
-https://codepen.io/shinminase/pen/ZENJyGb
+<h1>https://codepen.io/shinminase/pen/ZENJyGb</h3>
+
+live preview of it being used: https://freddielounds.neocities.org
